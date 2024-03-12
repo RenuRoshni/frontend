@@ -11,6 +11,6 @@ This project consists of an HTML file (`foodmunch.html`) and a CSS file (`foodmu
 It includes various sections such as the banner, menu exploration, healthy food, delivery and payment information, thanking customers, and social media links.
 
 ## Demo
-You can view a live demo of the Food Munch Responsive Website [here](dinein.ccbp.tech).
+You can view a live demo of the Food Munch Responsive Website [here](https://dinein.ccbp.tech/).
 
 
